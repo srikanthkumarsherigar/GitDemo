@@ -23,7 +23,9 @@ public class day1 {
 	public void secondtest()
 {
 		System.out.println("bai");
-		
+		System.out.println("bai");//a
+		System.out.println("bai");//b
+		System.out.println("bai");//c
 }
 	
 }
